@@ -1,0 +1,41 @@
+BCSymbolMap Version: 2.0
+_rt_swift_allocObject
+_rt_swift_getInitializedObjCClass
+_rt_swift_slowAlloc
+_rt_swift_slowDealloc
+__swift_dead_method_stub
+__TWvdvC9AudioTest11AudioPlayer11audioPlayerGSqCSo13AVAudioPlayer_
+__TWoFC9AudioTest11AudioPlayerg11audioPlayerGSqCSo13AVAudioPlayer_
+__TWoFC9AudioTest11AudioPlayers11audioPlayerGSqCSo13AVAudioPlayer_
+__TWoFC9AudioTest11AudioPlayerm11audioPlayerGSqCSo13AVAudioPlayer_
+__TMfC9AudioTest11AudioPlayer
+__swift_FORCE_LOAD_$_swiftUIKit_$_AudioTest
+__swift_FORCE_LOAD_$_swiftCoreImage_$_AudioTest
+__swift_FORCE_LOAD_$_swiftDarwin_$_AudioTest
+__swift_FORCE_LOAD_$_swiftCoreGraphics_$_AudioTest
+__swift_FORCE_LOAD_$_swiftDispatch_$_AudioTest
+__swift_FORCE_LOAD_$_swiftObjectiveC_$_AudioTest
+__swift_FORCE_LOAD_$_swiftFoundation_$_AudioTest
+__swift_FORCE_LOAD_$_swiftCoreMedia_$_AudioTest
+__swift_FORCE_LOAD_$_swiftCoreAudio_$_AudioTest
+__swift_FORCE_LOAD_$_swiftAVFoundation_$_AudioTest
+__TMLGSqCSo13AVAudioPlayer_
+__TMLCSo13AVAudioPlayer
+_objc_classes
+Apple LLVM version 8.0.0 (clang-800.0.31)
+-emit-bc /Users/shane/development/xcode/Test/TestBase/TestAudioBase/Carthage/Checkouts/AudioTest/AudioTest/AudioPlayer.swift -target arm64-apple-ios10.0 -Xllvm -aarch64-use-tbi -enable-objc-interop -sdk /Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk -I /Users/shane/Library/Developer/Xcode/DerivedData/AudioTest-eccihnswspxgcqbmxoehymhvbwkh/Build/Products/Release-iphoneos -F /Users/shane/Library/Developer/Xcode/DerivedData/AudioTest-eccihnswspxgcqbmxoehymhvbwkh/Build/Products/Release-iphoneos -g -import-underlying-module -module-cache-path /Users/shane/Library/Developer/Xcode/DerivedData/ModuleCache -serialize-debugging-options -Xcc -I/Users/shane/Library/Developer/Xcode/DerivedData/AudioTest-eccihnswspxgcqbmxoehymhvbwkh/Build/Intermediates/AudioTest.build/Release-iphoneos/AudioTest.build/swift-overrides.hmap -Xcc -iquote -Xcc /Users/shane/Library/Developer/Xcode/DerivedData/AudioTest-eccihnswspxgcqbmxoehymhvbwkh/Build/Intermediates/AudioTest.build/Release-iphoneos/AudioTest.build/AudioTest-generated-files.hmap -Xcc -I/Users/shane/Library/Developer/Xcode/DerivedData/AudioTest-eccihnswspxgcqbmxoehymhvbwkh/Build/Intermediates/AudioTest.build/Release-iphoneos/AudioTest.build/AudioTest-own-target-headers.hmap -Xcc -I/Users/shane/Library/Developer/Xcode/DerivedData/AudioTest-eccihnswspxgcqbmxoehymhvbwkh/Build/Intermediates/AudioTest.build/Release-iphoneos/AudioTest.build/AudioTest-all-non-framework-target-headers.hmap -Xcc -ivfsoverlay -Xcc /Users/shane/Library/Developer/Xcode/DerivedData/AudioTest-eccihnswspxgcqbmxoehymhvbwkh/Build/Intermediates/AudioTest.build/all-product-headers.yaml -Xcc -iquote -Xcc /Users/shane/Library/Developer/Xcode/DerivedData/AudioTest-eccihnswspxgcqbmxoehymhvbwkh/Build/Intermediates/AudioTest.build/Release-iphoneos/AudioTest.build/AudioTest-project-headers.hmap -Xcc -I/Users/shane/Library/Developer/Xcode/DerivedData/AudioTest-eccihnswspxgcqbmxoehymhvbwkh/Build/Products/Release-iphoneos/include -Xcc -I/Users/shane/Library/Developer/Xcode/DerivedData/AudioTest-eccihnswspxgcqbmxoehymhvbwkh/Build/Intermediates/AudioTest.build/Release-iphoneos/AudioTest.build/DerivedSources/arm64 -Xcc -I/Users/shane/Library/Developer/Xcode/DerivedData/AudioTest-eccihnswspxgcqbmxoehymhvbwkh/Build/Intermediates/AudioTest.build/Release-iphoneos/AudioTest.build/DerivedSources -Xcc -ivfsoverlay -Xcc /Users/shane/Library/Developer/Xcode/DerivedData/AudioTest-eccihnswspxgcqbmxoehymhvbwkh/Build/Intermediates/AudioTest.build/Release-iphoneos/AudioTest.build/unextended-module-overlay.yaml -Xcc -working-directory/Users/shane/development/xcode/Test/TestBase/TestAudioBase/Carthage/Checkouts/AudioTest -emit-module-doc-path /Users/shane/Library/Developer/Xcode/DerivedData/AudioTest-eccihnswspxgcqbmxoehymhvbwkh/Build/Intermediates/AudioTest.build/Release-iphoneos/AudioTest.build/Objects-normal/arm64/AudioTest.swiftdoc -O -parse-as-library -module-name AudioTest -emit-module-path /Users/shane/Library/Developer/Xcode/DerivedData/AudioTest-eccihnswspxgcqbmxoehymhvbwkh/Build/Intermediates/AudioTest.build/Release-iphoneos/AudioTest.build/Objects-normal/arm64/AudioTest.swiftmodule -emit-objc-header-path /Users/shane/Library/Developer/Xcode/DerivedData/AudioTest-eccihnswspxgcqbmxoehymhvbwkh/Build/Intermediates/AudioTest.build/Release-iphoneos/AudioTest.build/Objects-normal/arm64/AudioTest-Swift.h -serialize-diagnostics-path /Users/shane/Library/Developer/Xcode/DerivedData/AudioTest-eccihnswspxgcqbmxoehymhvbwkh/Build/Intermediates/AudioTest.build/Release-iphoneos/AudioTest.build/Objects-normal/arm64/AudioPlayer.dia -emit-dependencies-path /Users/shane/Library/Developer/Xcode/DerivedData/AudioTest-eccihnswspxgcqbmxoehymhvbwkh/Build/Intermediates/AudioTest.build/Release-iphoneos/AudioTest.build/Objects-normal/arm64/AudioPlayer.d -num-threads 2 -o /Users/shane/Library/Developer/Xcode/DerivedData/AudioTest-eccihnswspxgcqbmxoehymhvbwkh/Build/Intermediates/AudioTest.build/Release-iphoneos/AudioTest.build/Objects-normal/arm64/AudioPlayer.bc -resource-dir /Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift
+<swift-imported-modules>
+/Users/shane/development/xcode/Test/TestBase/TestAudioBase/Carthage/Checkouts/AudioTest
+Apple Swift version 3.0 (swiftlang-800.0.33.1 clang-800.0.31)
+/Users/shane/development/xcode/Test/TestBase/TestAudioBase/Carthage/Checkouts/AudioTest/AudioTest/AudioPlayer.swift
+get_field_types_AudioPlayer
+AudioPlayer.swift
+/Users/shane/development/xcode/Test/TestBase/TestAudioBase/Carthage/Checkouts/AudioTest/AudioTest
+_TMaGSqCSo13AVAudioPlayer_
+_TMaCSo13AVAudioPlayer
+deinit
+stop
+play
+init
+_TMaC9AudioTest11AudioPlayer
+/Users/shane/Library/Developer/Xcode/DerivedData/AudioTest-eccihnswspxgcqbmxoehymhvbwkh/Build/Intermediates/AudioTest.build/Release-iphoneos/AudioTest.build/DerivedSources/AudioTest_vers.c

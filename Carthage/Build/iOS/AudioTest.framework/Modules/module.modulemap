@@ -1,0 +1,10 @@
+framework module AudioTest {
+  umbrella header "AudioTest.h"
+
+  export *
+  module * { export * }
+}
+
+module AudioTest.Swift {
+    header "AudioTest-Swift.h"
+}
